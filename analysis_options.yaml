@@ -7,3 +7,5 @@ analyzer:
 dart_code_metrics:
   rules:
     - avoid-unnecessary-setstate
+    - prefer-moving-to-variable
+    - no-equal-arguments
